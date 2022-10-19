@@ -1,0 +1,33 @@
+.image-hero{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.title{
+    font-family: 'Poppins', sans-serif;
+}
+
+.subtitle{
+    letter-spacing: 10px;
+}
+
+#hero{
+    height: 95vh;
+}
+.text-about{
+text-indent: 50 px;
+text-align: justify;
+}
+.image-about{
+    width: 550px;
+    height: 250px;
+    object-fit: cover;
+}
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+.jarak{
+    line-height: 70%;
+}
